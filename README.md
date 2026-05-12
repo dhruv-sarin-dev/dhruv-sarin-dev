@@ -41,11 +41,6 @@ Architected a no-code, end-to-end automated machine learning platform that auto-
 
 * **Mechanic:** Owned the entire AI layer for a university collaboration platform. Integrated **LLaMA 3.3 via Groq API** to perform semantic skill analysis, generating quantitative compatibility scores with context-aware reasoning. Deployed via `FastAPI`.
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-sarin-dev&show_icons=true&theme=radium&hide_border=true" alt="Dhruv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-sarin-dev&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
 
 <br/>
 <div align="center">
